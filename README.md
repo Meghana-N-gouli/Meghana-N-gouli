@@ -1,7 +1,7 @@
 👋 Hi, I’m @Meghana-N-gouli
 - 👀 I’m interested in ...learning coding and ethical hacking 
 - 🌱 I’m currently learning ...java programming language
-- 💞️ I’m looking to collaborate on ...coders eho help to improve my knowlegde in this
+- 💞️ I’m looking to collaborate on ...coders who help to improve my knowlegde in this coding or on technology things
 - 📫 How to reach me ..contact me through github only.
 
 <!---
